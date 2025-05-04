@@ -81,7 +81,7 @@ Acceso a la aplicación
 | ----------- | ------------------------------------------------------------ |
 | Frontend    | [http://localhost:3000](http://localhost:3000)               |
 | Backend API | [http://localhost:8080/api](http://localhost:8080/api)       |
-| PostgreSQL  | localhost:5432 (usuario: `postgres`, contraseña: `postgres`) |
+| PostgreSQL  | localhost:5432 (usuario: `postgres`, contraseña: `rramos`) |
 
 
 Comandos útiles
