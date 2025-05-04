@@ -106,6 +106,13 @@ SPRING_DATASOURCE_URL=jdbc:postgresql://db:5432/sistemaventas
 SPRING_DATASOURCE_USERNAME=postgres
 SPRING_DATASOURCE_PASSWORD=postgres
 
+Notas
+
+    El frontend se comunica con el backend en producción usando la URL interna http://backend:8080.
+
+    Los artefactos compilados (/target, /build) no están versionados.
+
+    Por el momento los script de base de datos de prueba cuenta con menos de 10 registros
 
 
 
